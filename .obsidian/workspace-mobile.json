@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e356f56294f57c03",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6bdec7f472b1a31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7190007a2a5eac35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Daily/Y-2024/Q-4-2024/2024-12-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c9d0dcb4144544a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "680ce95eca45c595",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a3fae36dbc406150",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "08332246203454b2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "922b9843a344f010",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5f196cecccaba662",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4d808b5eeb1eb375",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "01 - Projects/ЮФУ/Английский/АДМ.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bb9e7b1f480e2cf6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "07 - Daily/Y-2024/Q-4-2024/2024-10-21.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ad93c85588727f38",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "07 - Daily/Y-2024/Q-4-2024/2024-10-21.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-projects:Open projects": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "7190007a2a5eac35",
+  "lastOpenFiles": [
+    "05 - Inputs/По-хорошему, если кт - 19.11.2024 22.56.md",
+    "07 - Daily/Y-2024/Q-4-2024/2024-12-21.md",
+    "05 - Inputs/👩‍💻 Обучающий курс - 05.11.2024 07.49.md",
+    "06 - Calendar/2024-12-22- Треня А.md",
+    "99 - meta/Templates/CalendarNote.md.tmp",
+    "06 - Calendar/2024-12-20- Семинар - Защищённые ИС - Ирина Подборская (4).md",
+    "06 - Calendar/2024-12-20- Семинар - Защищённые ИС - Ирина Подборская (3).md",
+    "06 - Calendar/2024-12-20- Треня В (3).md",
+    "01 - Projects/ЮФУ/Английский/АДМ.md",
+    "05 - Inputs/Успешный успех/ГАЙД НА КОНЦЕНТРАЦИЮ.sync-conflict-20241217-091918-A5EACBT.md",
+    "07 - Daily/Y-2024/Q-4-2024/2024-12-15.sync-conflict-20241217-091919-A5EACBT.md",
+    "06 - Calendar/2024-12-09- Семинар - Криптография - Анна Епишкина.sync-conflict-20241217-091919-A5EACBT.md",
+    "06 - Calendar/2024-12-10- Семинар - Защищённые ИС - Ирина Подборская.sync-conflict-20241217-091918-A5EACBT.md",
+    "02 - Areas/02 - Areas.sync-conflict-20241217-091918-A5EACBT.md",
+    "06 - Calendar/2024-12-09- Треня В (2).sync-conflict-20241217-091919-A5EACBT.md",
+    "06 - Calendar/2024-12-08- Треня А (2).sync-conflict-20241217-091918-A5EACBT.md",
+    "05 - Inputs/Успешный успех/Гайд по сну.sync-conflict-20241217-091918-A5EACBT.md",
+    "06 - Calendar/2024-12-09- Треня В.sync-conflict-20241217-091918-A5EACBT.md",
+    "06 - Calendar/2024-12-08- Треня А.sync-conflict-20241217-091919-A5EACBT.md",
+    "06 - Calendar/2024-12-10- Теория вероятности.sync-conflict-20241217-091919-A5EACBT.md",
+    "05 - Inputs/Успешный успех/Гайд на жабу.sync-conflict-20241217-091919-A5EACBT.md",
+    "06 - Calendar/2024-12-09- Семинар - Криптография - Анна Епишкина (2).sync-conflict-20241217-091918-A5EACBT.md",
+    "01 - Projects/ЮФУ/Основы нейронных сетей/Основы нейронных сетей.sync-conflict-20241217-091919-A5EACBT.md",
+    "06 - Calendar/2024-12-10- Семинар - Теоретические основы ИБ - Сергей Журин.sync-conflict-20241217-091919-A5EACBT.md",
+    "05 - Inputs/Успешный успех/Гайд на сон 3.sync-conflict-20241217-091919-A5EACBT.md",
+    "01 - Projects/ЮФУ/Английский/Английский.sync-conflict-20241217-091919-A5EACBT.md",
+    "07 - Daily/Y-2024/Q-4-2024/2024-12-14.sync-conflict-20241217-091919-A5EACBT.md",
+    "01 - Projects/ЮФУ/Английский/attachments/tree_7февр2023_tiny.jpg",
+    "05 - Inputs/attachments/video_note_2140434180_204 - 02.12.2024 22.29.mp4",
+    "01 - Projects/МИФИ/Защита в ОС/Введение в Linux/attachments/Защита_в_ОС_M2U2_Systemd._Программирование_на_bash..pdf",
+    "01 - Projects/МИФИ/Защита в ОС/Введение в Linux/attachments/asset-v1_SkillFactory+MIFISEC+SEP_2023+type@asset+block@Пользователи_и_группы.pdf",
+    "01 - Projects/МИФИ/Защита в ОС/Введение в Linux/attachments/asset-v1_SkillFactory+MIFISEC+SEP_2023+type@asset+block@4.Права_доступа._Процессы.pdf",
+    "01 - Projects/МИФИ/Защита в ОС/Введение в Linux/attachments",
+    "05 - Inputs/attachments/photo_2140434180_203 - 20.11.2024 09.32.jpg",
+    "05 - Inputs/attachments/photo_2140434180_203 - 20.11.2024 09.32 - 2024112093203104.jpg",
+    "01 - Projects/МИФИ/Сети и системы передачи данных/Теоретические основы построения локальных вычислительных сетей/attachments/Pasted image 20240930090337.png",
+    "01 - Projects/МИФИ/Сети и системы передачи данных/Теоретические основы построения локальных вычислительных сетей/attachments/Pasted image 20240930090331.png",
+    "05 - Inputs/attachments/photo_2140434180_137 - 03.10.2024 19.38.jpg",
+    "05 - Inputs/attachments/photo_2140434180_134 - 03.10.2024 19.38.jpg",
+    "05 - Inputs/attachments/Алманах_Невидимое_измерение_Выпуск_13_2024 - 03.10.2024 19.38.pdf",
+    "05 - Inputs/attachments/photo_2140434180_136 - 03.10.2024 19.38.jpg",
+    "05 - Inputs/attachments/photo_2140434180_143 - 03.10.2024 19.38.jpg",
+    "05 - Inputs/attachments/photo_2140434180_142 - 03.10.2024 19.38.jpg",
+    "05 - Inputs/attachments/IMG_8851 - 03.10.2024 19.36.MP4",
+    "05 - Inputs/attachments/[bookap.info] Дейда. Путь супермужчины - 03.10.2024 19.36.pdf",
+    "05 - Inputs/attachments/_babajkin-na_pensiyu_v_35_let-60853073bc160 - 03.10.2024 19.36.epub",
+    "Zettelkasten/System/План хранилища.canvas"
+  ]
+}

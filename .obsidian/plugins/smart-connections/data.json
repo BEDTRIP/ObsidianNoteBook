@@ -1,0 +1,39 @@
+{
+  "env_data_dir": "99 - meta/.smart-env",
+  "new_user": false,
+  "legacy_transformers": false,
+  "enable_mobile": false,
+  "actions": {
+    "lookup": true
+  },
+  "system_prompts_folder": "99 - meta/smart prompts",
+  "smart_chat_folder": "99 - meta/smart-chats",
+  "smart_chat_folder_last": "99 - meta/smart-chats",
+  "chat_model_platform_key": "openai",
+  "open_router": {},
+  "api_key": "",
+  "excluded_headings": "",
+  "show_full_path": false,
+  "expanded_view": false,
+  "language": "en",
+  "version": "2.2.76",
+  "env_data_dir_last": "99 - meta/.smart-env",
+  "smart_view_filter": {
+    "exclude_inlinks": true,
+    "exclude_outlinks": true
+  },
+  "custom_api": {
+    "model_name": "Gigachat",
+    "description": "Custom API (OpenAI format)",
+    "type": "API",
+    "max_input_tokens": 1000000,
+    "protocol": "https",
+    "hostname": "https://gigachat.devices.sberbank.ru/",
+    "streaming": false,
+    "api_key": "602de01c-7e7d-40db-8762-8131fc60febb",
+    "path": "https://gigachat.devices.sberbank.ru/"
+  },
+  "openai": {
+    "api_key": "https://gigachat.devices.sberbank.ru/"
+  }
+}

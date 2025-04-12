@@ -1,0 +1,46 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "📆 Новая запись",
+      "icon": "",
+      "style": "primary",
+      "class": "",
+      "cssStyle": "",
+      "backgroundImage": "",
+      "tooltip": "",
+      "id": "create_new_gcal",
+      "hidden": false,
+      "actions": [
+        {
+          "type": "command",
+          "command": "google-calendar:create-google-calendar-event"
+        },
+        {
+          "type": "sleep",
+          "ms": 1000
+        },
+        {
+          "type": "command",
+          "command": "google-calendar:google-calendar-trigger-auto-import"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

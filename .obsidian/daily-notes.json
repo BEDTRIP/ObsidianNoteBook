@@ -1,0 +1,6 @@
+{
+  "format": "[Y]-YYYY/[Q]-Q-YYYY/YYYY-MM-DD",
+  "folder": "07 - Daily",
+  "template": "99 - meta/Templates/Daily",
+  "autorun": true
+}

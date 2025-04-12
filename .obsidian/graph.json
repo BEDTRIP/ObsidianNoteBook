@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"01 - Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15172228
+      }
+    },
+    {
+      "query": "path:\"02 - Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15374748
+      }
+    },
+    {
+      "query": "path:\"03 - Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15703926
+      }
+    },
+    {
+      "query": "path:\"04 - Permanent\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15059088
+      }
+    },
+    {
+      "query": "path:\"05 - Inputs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10932617
+      }
+    },
+    {
+      "query": "path:\"07 - Daily\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1161157
+      }
+    },
+    {
+      "query": "path:\"08 - Archives\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.13830586343077386,
+  "close": true
+}

@@ -1,0 +1,262 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Мидл Python/1 Сервис Admin Panel",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e55090cb-7d07-4b67-a5ef-3926ed53b94a",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "50ea903c-936c-43fa-8f1e-bb133117c9fb",
+      "name": "1 Сервис Admin Panel"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Мидл Python",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "80f1e065-4dcc-49a7-9701-64c8504d5bf2",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "e8930037-9bed-430f-a654-5bfaef637318",
+      "name": "Мидл Python"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/Мидл Python",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "7eac3922-50d6-44fd-92b3-59be3b24dbc3",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "07e3109b-40bd-44e7-a6d6-b8bf2515b4b9",
+      "name": "Мидл Python"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b079d45a-7465-4734-b762-a67e835de6e4",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "b74357c3-40c9-43fb-97f1-14f4be2ad73d",
+      "name": "Projects"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "123",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a26c65af-57b4-4750-b422-69b80fc560db",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "41c09456-9c7a-43d9-a485-59f223c64273",
+      "name": "123"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01 - Projects/МИФИ/Нормативно правовое обеспечение ИБ",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5fd9e778-a5e0-4cf3-a3c0-d9363f6d7d12",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "74b0d091-fb3e-4298-bf60-b00720cd6c8f",
+      "name": "Нормативно правовое обеспечение ИБ"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01 - Projects/МИФИ/Нормативно правовое обеспечение ИБ",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8c163c53-c863-4073-8a5d-a18afdd0c74b",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "59141e2a-f4d4-4d62-8a67-d1c241686c46",
+      "name": "Нормативно правовое обеспечение ИБ 2122"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
